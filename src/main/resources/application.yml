@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  thymeleaf:
+    mode: HTML5
+
+qiniu:
+  accessKey: syUZKzcwort8fis-3Pefv2qVgBpur5RnYHXY9CdU
+  secretKey: 7QyBV6Sih3FpdA1KmwqHP2l9Hmpdkr2BZo-e2CR0
+  bucket: zzy
+
